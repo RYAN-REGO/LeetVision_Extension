@@ -1,4 +1,4 @@
-## KeetVision - Chrome Extension
+## LeetVision - Chrome Extension
 
 ### Problem Statement
 - Lack of test cases for leetcode problem to counter edge-cases while solving the problem.
